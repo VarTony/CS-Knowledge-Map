@@ -14,7 +14,7 @@
 Можно открывать репозиторий в:
 - [Online](https://vartony.github.io/CS-Knowledge-Map/)
 
-### Для использования со следующими програмими, нужно извлечь фаловую структуру каталога Nodes
+- Для использования со следующими программами, нужно извлечь файловую структуру каталога **Nodes**
 - [Obsidian](https://obsidian.md)
 - [Foam](https://foambubble.github.io)
 - [VS Code + Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
