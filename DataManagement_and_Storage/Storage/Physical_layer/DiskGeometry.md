@@ -85,3 +85,15 @@
 
 Глубокое понимание геометрии пластин позволяет проектировать эффективные и надёжные системы хранения — от архитектуры RAID до низкоуровневых оптимизаций ввода-вывода в СУБД.
 
+---
+
+### Связанные темы
+
+- [Последовательное расположение блоков данных на цилиндрах](./Sequential_Block_Placement.md)  
+- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
+- [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
+- [Размер блока и производительность дисков](./BlockSize_and_IO_Performance.md)  
+- [Сигнальные биты и контрольные суммы в кодировании данных](../Reliability/SignalBits_and_Checksums.md)  
+- [Ремаппинг и резервирование секторов](../Reliability/Remapping_and_SectorSparing.md)  
+- [Модель внешней памяти (I/O-модель)](../Theory/ExternalMemoryModel.md)  
+- [TPMMS — внешняя сортировка](../../../Algorithms/IO_Model/TPMMS.md)

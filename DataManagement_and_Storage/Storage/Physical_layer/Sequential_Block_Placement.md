@@ -61,6 +61,6 @@
 ### Связанные темы
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_vs_SCAN.md)  
+- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
 - [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
 - [Модель внешней памяти (I/O-модель)](../Theory/ExternalMemoryModel.md)

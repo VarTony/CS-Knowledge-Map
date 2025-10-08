@@ -92,5 +92,5 @@
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)  
 - [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_vs_SCAN.md)  
+- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
 - [I/O-модель (External Memory Model)](../Theory/ExternalMemoryModel.md)

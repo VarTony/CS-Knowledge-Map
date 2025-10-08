@@ -85,6 +85,6 @@
 ### Связанные темы
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_vs_SCAN.md)  
+- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
 - [Буферизация и кэширование на уровне контроллера](./Caching_and_Buffering.md)  
 - [Внешние сортировки и TPMMS](../../Algorithms/TPMMS.md)
