@@ -1,19 +1,19 @@
-name: Deploy Quartz site
+name: Build Quartz site
 
 on:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (with submodules)
         uses: actions/checkout@v4
         with:
-          submodules: true  # чтобы подтянулся quartz
+          submodules: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -21,13 +21,30 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: cd quartz && npm install
+        run: cd quartz && npm ci
 
-      - name: Build site
+      - name: Build Quartz
         run: cd quartz && npx quartz build --directory ../Nodes
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Add .nojekyll to disable Jekyll
+        run: echo "" > quartz/public/.nojekyll
+
+      - name: Upload artifact to Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: quartz/public
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
