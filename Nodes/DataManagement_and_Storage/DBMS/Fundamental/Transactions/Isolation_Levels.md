@@ -210,3 +210,4 @@ READ UNCOMMITTED → READ COMMITTED → REPEATABLE READ → SERIALIZABLE
 И именно этот баланс определяет, насколько «живо» работает база под нагрузкой.
 
 ## Связанные темы
+SQL-92

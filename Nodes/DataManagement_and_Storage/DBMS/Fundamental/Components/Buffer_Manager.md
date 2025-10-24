@@ -221,7 +221,7 @@ tags:
 
 ---
 
-## Смежные темы
+## Связанные темы
 
 - [Предварительная подгрузка и буферизация данных при работе с дисками](../../../Storage/Physical_layer/Prefetching_and_Buffering.md)
 - [Fault Tolerance — WAL и атомарность страниц](../FaultTolerance/WAL_and_Page_Atomicity.md)
