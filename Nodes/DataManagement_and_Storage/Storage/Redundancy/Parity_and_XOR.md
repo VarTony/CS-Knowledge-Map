@@ -64,4 +64,4 @@ title: Побитовое суммирование по модулю два и �
 - [Уровни RAID (0–6)](./RAID_Levels.md)  
 - [Ремаппинг и резервирование секторов](./Remapping_and_SectorSparing.md)  
 - [Отказоустойчивость и MTTDL](../FaultTolerance/MTBF_and_MTTDL.md)  
-- [Коды Хэмминга и коррекция ошибок](../FaultTolerance/ErrorCorrection.md)
+- [Коды Хэмминга и коррекция ошибок](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/ErrorCorrection.md)

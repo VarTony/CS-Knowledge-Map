@@ -89,4 +89,4 @@ title: Зеркалирование данных
 - [Побитовое суммирование и XOR-паритет](./Parity_and_XOR.md)  
 - [Ремаппинг и резервирование секторов](./Remapping_and_SectorSparing.md)  
 - [Сигнальные биты и контрольные суммы](./SignalBits_and_Checksums.md)  
-- [Отказоустойчивость и MTTDL](../FaultTolerance/MTBF_and_MTTDL.md)
+- [Отказоустойчивость и MTTDL](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/MTBF_and_MTTDL.md)

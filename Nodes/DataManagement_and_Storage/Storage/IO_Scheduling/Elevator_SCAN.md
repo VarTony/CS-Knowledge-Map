@@ -91,7 +91,7 @@ title: Алгоритм лифта (Elevator algorithm)
 
 ### Связанные темы
 
-- [Геометрия пластин и цилиндров](../PhysicalLayer/DiskGeometry.md)
-- [Буферизация и предзагрузка данных](../PhysicalLayer/Caching_and_Buffering.md)
-- [Оптимизация последовательного доступа](../PhysicalLayer/SequentialAccess.md)
-- [RAID и распределение блоков](../Redundancy/RAID_Levels.md)
+- [Геометрия пластин и цилиндров](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/DiskGeometry.md)
+- [Буферизация и предзагрузка данных](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/Caching_and_Buffering.md)
+- [Оптимизация последовательного доступа](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/SequentialAccess.md)
+- [RAID и распределение блоков](/Nodes/DataManagement_and_Storage/Storage/Redundancy/RAID_Levels.md)

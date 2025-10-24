@@ -104,6 +104,6 @@ title: Ремаппинг и резервирование секторов на 
 
 ### Связанные темы
 
-- [Геометрия пластин и цилиндров](../PhysicalLayer/DiskGeometry.md)
-- [Отказоустойчивость и MTTDL](../FaultTolerance/MTBF_and_MTTDL.md)
+- [Геометрия пластин и цилиндров](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/DiskGeometry.md)
+- [Отказоустойчивость и MTTDL](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/MTBF_and_MTTDL.md)
 - [RAID-зеркалирование](./Mirroring.md)

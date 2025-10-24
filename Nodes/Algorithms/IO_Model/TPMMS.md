@@ -161,7 +161,7 @@ TPMMS — рабочий инструмент СУБД, используемый
 
 ### Связанные темы
 
-- [Модель внешней памяти (I/O-модель)](../../../Storage/Theory/ExternalMemoryModel.md)  
-- [Предварительная подгрузка и буферизация данных](../../../Storage/PhysicalLayer/Prefetching_and_Buffering.md)  
-- [Размер блока и производительность дисков](../../../DataManagement_and_Storage/Storage/PhysicalLayer/BlockSize_and_IO_Performance.md)  
-- [B-деревья и индексы в СУБД](../../../DataManagement_and_Storage/DBMS/Indexing/B_Trees.md)
+- [Модель внешней памяти (I/O-модель)](/Nodes/DataManagement_and_Storage/Storage/Theory/ExternalMemoryModel.md)  
+- [Предварительная подгрузка и буферизация данных](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/Prefetching_and_Buffering.md)  
+- [Размер блока и производительность дисков](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/BlockSize_and_IO_Performance.md)  
+- [B-деревья и индексы в СУБД](/Nodes/DataManagement_and_Storage/DBMS/Indexing/B_Trees.md)

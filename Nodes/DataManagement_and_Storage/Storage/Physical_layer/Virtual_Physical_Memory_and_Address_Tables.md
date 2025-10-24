@@ -188,6 +188,6 @@ ptr = TOMBSTONE // вместо старого адреса
 
 ## Связанные темы
 
-- [Модель внешней памяти (I/O-модель)](../Theory/ExternalMemoryModel.md)
+- [Модель внешней памяти (I/O-модель)](/Nodes/DataManagement_and_Storage/Storage/Theory/ExternalMemoryModel.md)
 - [Геометрия пластин и организация данных на магнитных дисках](./DiskGeometry.md)
 - [Подмена адресов между памятью и вторичным хранилищем](./Address_Substitution.md)

@@ -157,7 +157,7 @@ RAID 5 и 6 — сбалансированные решения, использ�
 
 ### Связанные темы
 
-- [Геометрия пластин и цилиндров](../PhysicalLayer/DiskGeometry.md)  
+- [Геометрия пластин и цилиндров](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/DiskGeometry.md)  
 - [Ремаппинг и резервирование секторов](./Remapping_and_SectorSparing.md)  
-- [Отказоустойчивость и MTTDL](../FaultTolerance/MTBF_and_MTTDL.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_vs_SCAN.md)
+- [Отказоустойчивость и MTTDL](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/MTBF_and_MTTDL.md)  
+- [Алгоритм лифта (SCAN)](/Nodes/DataManagement_and_Storage/Storage/IO_Scheduling/Elevator_vs_SCAN.md)

@@ -66,6 +66,6 @@ title: Последовательное расположение блоков д
 ### Связанные темы
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
+- [Алгоритм лифта (SCAN)](/Nodes/DataManagement_and_Storage/Storage/IO_Scheduling/Elevator_SCAN.md)  
 - [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
-- [Модель внешней памяти (I/O-модель)](../Theory/ExternalMemoryModel.md)
+- [Модель внешней памяти (I/O-модель)](/Nodes/DataManagement_and_Storage/Storage/Theory/ExternalMemoryModel.md)

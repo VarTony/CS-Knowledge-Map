@@ -127,8 +127,8 @@ MTTDL ≈ (1e6)^2 / (2 × 10) = 5 × 10^10 ч
 
 ### Связанные темы
 
-- [Зеркалирование данных](../Reliability/Mirroring.md)  
-- [Страйпинг данных](../Reliability/Striping.md)  
-- [Основные уровни RAID (0–6)](../Reliability/RAID_Levels.md)  
-- [Побитовое суммирование и XOR-паритет](../Reliability/Parity_and_XOR.md)  
-- [Ремаппинг и резервирование секторов](../Reliability/Remapping_and_SectorSparing.md)
+- [Зеркалирование данных](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Mirroring.md)  
+- [Страйпинг данных](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Striping.md)  
+- [Основные уровни RAID (0–6)](/Nodes/DataManagement_and_Storage/Storage/Redundancy/RAID_Levels.md)  
+- [Побитовое суммирование и XOR-паритет](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Parity_and_XOR.md)  
+- [Ремаппинг и резервирование секторов](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Remapping_and_SectorSparing.md)

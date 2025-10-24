@@ -97,5 +97,5 @@ title: Размер блока данных и скорость чтения с 
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)  
 - [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
-- [Алгоритм лифта (SCAN)](../IO_Scheduling/Elevator_SCAN.md)  
-- [I/O-модель (External Memory Model)](../Theory/ExternalMemoryModel.md)
+- [Алгоритм лифта (SCAN)](/Nodes/DataManagement_and_Storage/Storage/IO_Scheduling/Elevator_SCAN.md)  
+- [I/O-модель (External Memory Model)](/Nodes/DataManagement_and_Storage/Storage/Theory/ExternalMemoryModel.md)

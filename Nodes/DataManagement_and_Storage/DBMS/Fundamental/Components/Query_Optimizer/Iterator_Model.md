@@ -203,4 +203,4 @@ Volcano-style execution стала основой исполнения SQL-за�
 
 - [Оптимизация планов запросов](./Query_Plans_Optimization.md)
 - [Материализация](./Materialization_Model.md) // TODO
-- [Cursors in SQL](../../Interfaces/Cursors.md) // TODO
+- [Cursors in SQL](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Interfaces/Cursors.md) // TODO

@@ -113,5 +113,5 @@ tags:
 
 - [Геометрия пластин и цилиндров](./DiskGeometry.md)
 - [Предварительная подгрузка и буферизация данных](./Prefetching_and_Buffering.md)  
-- [WAL и атомарность страниц](../FaultTolerance/WAL_and_Page_Atomicity.md)  
-- [TOAST — хранение больших атрибутов](../DBMS/Storage/TOAST_and_External_Storage.md)
+- [WAL и атомарность страниц](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/WAL_and_Page_Atomicity.md)  
+- [TOAST — хранение больших атрибутов](/Nodes/DataManagement_and_Storage/DBMS/Storage/TOAST_and_External_Storage.md)

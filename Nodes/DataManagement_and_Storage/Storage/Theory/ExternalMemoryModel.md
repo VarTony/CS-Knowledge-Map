@@ -98,6 +98,6 @@ B = 1 000 записей
 ### Связанные темы
 
 - [RAM-модель вычислений](./Theory/RAM_Model.md)  
-- [Предварительная подгрузка и буферизация данных](../PhysicalLayer/Prefetching_and_Buffering.md)  
-- [TPMMS — внешняя сортировка](../../../Algorithms/IO_Model/TPMMS.md)  
-- [Индексы на основе B+-дерева](../../DBMS/Indexing/B_Trees.md)
+- [Предварительная подгрузка и буферизация данных](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/Prefetching_and_Buffering.md)  
+- [TPMMS — внешняя сортировка](/Nodes/Algorithms/IO_Model/TPMMS.md)  
+- [Индексы на основе B+-дерева](/Nodes/DataManagement_and_Storage/DBMS/Indexing/B_Trees.md)
