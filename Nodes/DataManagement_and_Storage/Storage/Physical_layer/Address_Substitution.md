@@ -197,8 +197,8 @@ lazy (по требованию) — подмена и запись выполн
 ## Смежные темы
 
 - [Виртуальная, физическая память и таблицы адресов](./Virtual_Physical_Memory_and_Address_Tables.md) 
-- [Модель внешней памяти (I/O-модель)](../Theory/ExternalMemoryModel.md)
-- [Буфер-менеджер (компонент СУБД)](../../DBMS/Fundamenral/Components/Buffer_Manager.md)
+- [Модель внешней памяти (I/O-модель)](/Nodes/DataManagement_and_Storage/Storage/Theory/ExternalMemoryModel.md)
+- [Буфер-менеджер (компонент СУБД)](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Buffer_Manager.md)
 - [Геометрия пластин и организация данных на магнитных дисках](./DiskGeometry.md)
 - [Размещение и выравнивание записей в блоках СУБД](./Record_Alignment_and_Page_Storage.md)
-- [Внешние сортировки и TPMMS](../../Algorithms/TPMMS.md)
+- [Внешние сортировки и TPMMS](/Nodes/Algorithms/TPMMS.md)

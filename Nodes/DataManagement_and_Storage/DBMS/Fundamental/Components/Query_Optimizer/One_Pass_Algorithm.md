@@ -191,4 +191,4 @@ R – большая таблица
 ## Связанные темы
 
 - [Модель итератора (Volcano-style execution)](./Iterator_Model.md)
-- [Буферный менеджер и page replacement](../Buffer_Manager.md)
+- [Буферный менеджер и page replacement](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Buffer_Manager.md)

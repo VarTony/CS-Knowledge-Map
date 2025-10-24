@@ -126,9 +126,9 @@ CRC широко применяется в **сетевых протоколах
 
 ### Связанные темы
 
-- [Ремаппинг и резервирование секторов](../Redundancy/Remapping_and_SectorSparing.md)  
-- [Побитовое суммирование и XOR-паритет](../Redundancy/Parity_and_XOR.md)  
-- [Коды Хэмминга и коррекция ошибок](../FaultTolerance/ErrorCorrection.md)  
-- [Отказоустойчивость и MTTDL](../FaultTolerance/MTBF_and_MTTDL.md)
+- [Ремаппинг и резервирование секторов](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Remapping_and_SectorSparing.md)  
+- [Побитовое суммирование и XOR-паритет](/Nodes/DataManagement_and_Storage/Storage/Redundancy/Parity_and_XOR.md)  
+- [Коды Хэмминга и коррекция ошибок](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/ErrorCorrection.md)  
+- [Отказоустойчивость и MTTDL](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/MTBF_and_MTTDL.md)
 
 

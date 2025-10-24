@@ -158,7 +158,8 @@ close():
 
 ## Связанные темы
 
-* [Однопроходный алгоритм](./One_Pass_Algorithm.md)
+- [Однопроходный алгоритм](./One_Pass_Algorithm.md)
+- [Буферный менеджер и page replacement](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Buffer_Manager.md)
 
 // TODO
 * [Hash Join и Grace Hash Join](./Hash_Join.md)

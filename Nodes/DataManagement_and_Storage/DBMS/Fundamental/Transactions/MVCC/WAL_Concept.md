@@ -117,6 +117,6 @@ WAL — это фундаментальный механизм, который �
 ## Связанные темы
 
 - [Snapshot](./Snapshot.md)
-- [ACID](../ACID.md)
+- [ACID](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Transactions/ACID.md)
 
 

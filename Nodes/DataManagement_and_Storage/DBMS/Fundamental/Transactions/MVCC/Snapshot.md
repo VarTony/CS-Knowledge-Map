@@ -150,4 +150,4 @@ MVCC + Snapshot обеспечивает:
 # Связанные темы
 
 - [Версионная реализация MVCC](./MVCC_Vercions.md)
-- [Буферный менеджер](../../Components//Buffer_Manager.md)
+- [Буферный менеджер](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Buffer_Manager.md)
