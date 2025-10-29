@@ -144,8 +144,8 @@ COMMIT
 
 ## Связанные темы
 
-- [Snapshot](./MVCC/Snapshot.md)
-- [Версионная реализация MVCC](./MVCC/Vercions.md) TODO
-- [Write-Ahead Logging (WAL) и механизм crash recovery](/storage/WAL_and_Crash_Recovery.md)
-- [Уровни изоляции транзакций](/transactions/Isolation_Levels.md)
+- [Snapshot](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Transaction_Manager/Snapshot.md)
+- [Версионная реализация MVCC](/Vercions.md) TODO
+- [Write-Ahead Logging (WAL)](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Log_Manager/WAL_Concept.md)
+- [Уровни изоляции транзакций](./Isolation_Levels.md)
 

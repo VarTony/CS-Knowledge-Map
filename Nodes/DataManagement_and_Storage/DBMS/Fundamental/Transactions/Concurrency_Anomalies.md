@@ -264,5 +264,5 @@ T2: UPDATE doctors SET on_duty = false WHERE id = 2; COMMIT;
 ## Связанные темы
 
 - [Уровни изоляции транзакций](./Isolation_Levels.md)
-- [Версионная реализация MVCC](./MVCC/Vercions.md) TODO
+- [Версионная реализация MVCC](./Vercions.md) TODO
 - [ACID](./ACID.md)

@@ -116,7 +116,8 @@ WAL — это фундаментальный механизм, который �
 
 ## Связанные темы
 
-- [Snapshot](./Snapshot.md)
+- [UNDO и REDO](./Transaction_Logging_Undo_Redo.md)
+- [Snapshot](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Components/Transaction_Manager/Snapshot.md)
 - [ACID](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Transactions/ACID.md)
 
 

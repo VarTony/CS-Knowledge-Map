@@ -109,7 +109,7 @@ title: Менеджер транзакций и связь с ACID
 
 ## Связанные темы
 
-- [MVCC и уровни изоляции транзакций](./MVCC_Isolation.md)
-- [Протокол WAL и методы REDO/UNDO](./Logging_and_Recovery.md)
+- [Уровни изоляции транзакций](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Transactions/Isolation_Levels.md)
+- [WAL концепт](/Nodes/DataManagement_and_Storage/DBMS/Fundamental/Transactions/MVCC/WAL_Concept.md)
+- [Методы REDO/UNDO](./Logging_and_Recovery.md)
 - [Буферный менеджер и архитектура памяти](./Buffer_Manager.md)
-```
