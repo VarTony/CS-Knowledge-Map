@@ -221,7 +221,9 @@ tags:
 
 ---
 
+
 ## Связанные темы
 
 - [Предварительная подгрузка и буферизация данных при работе с дисками](/Nodes/DataManagement_and_Storage/Storage/Physical_layer/Prefetching_and_Buffering.md)
 - [Fault Tolerance — WAL и атомарность страниц](/Nodes/DataManagement_and_Storage/Storage/FaultTolerance/WAL_and_Page_Atomicity.md)
+- [Стратегии управления буферным пулом](./Buffer_Manager_Strategies.md)
